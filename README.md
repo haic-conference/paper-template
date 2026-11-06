@@ -67,17 +67,6 @@ Separate authors with `\And` (LaTeX decides where to break the line) or `\AND` (
 Second Author \\ Institution \\ \texttt{second@example.org}}
 ```
 
-## Formatting requirements
-
-- **Page limit:** at most 15 pages of main text. References do not count toward the limit.
-- **Abstract:** one paragraph of at most 150 words.
-- **Citations:** use natbib author–year commands: `\citet{key}` for textual citations ("Doe & Smith (2025) show…") and `\citep{key}` for parenthetical ones ("…(Lee & Patel, 2024)").
-- **Paper size:** US Letter.
-- **Layout:** do not change margins, fonts or spacing. Do not load `geometry` unless you use `\usepackage[pass]{geometry}`. Changing the style files may be grounds for rejection.
-- **Figures and tables:** keep text no smaller than `\small`, prefer vector graphics, and place floats at the top or bottom of the page.
-
-The HAIC 2027 call for papers at [haic.cc](https://haic.cc/) is authoritative if it differs from this template.
-
 ## Acknowledgment
 
-This template is adapted from the [COLM 2026](https://colmweb.org/) template, which was itself adapted from the ICLR and NeurIPS templates.
+This template is adapted from the [COLM](https://colmweb.org/) template.
